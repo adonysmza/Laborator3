@@ -1,3 +1,4 @@
+<img width="1378" height="990" alt="Lab3SS" src="https://github.com/user-attachments/assets/b4c50aa3-50d6-4667-b65e-a8c4168a2b92" />
 # Lab3BouncyCube3D
 ## Ce face aplicatia
 Afiseaza un cub 3D care se misca sus-jos si se roteste pe axele X si Y.
