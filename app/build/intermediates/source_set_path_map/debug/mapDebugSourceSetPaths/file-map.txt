@@ -1,0 +1,7 @@
+cg.bouncycube.app-pngs-0 E:\Downloads\Lab3BouncyCube3D\app\build\generated\res\pngs\debug
+cg.bouncycube.app-resValues-1 E:\Downloads\Lab3BouncyCube3D\app\build\generated\res\resValues\debug
+cg.bouncycube.app-packageDebugResources-2 E:\Downloads\Lab3BouncyCube3D\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+cg.bouncycube.app-packageDebugResources-3 E:\Downloads\Lab3BouncyCube3D\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+cg.bouncycube.app-debug-4 E:\Downloads\Lab3BouncyCube3D\app\build\intermediates\merged_res\debug\mergeDebugResources
+cg.bouncycube.app-debug-5 E:\Downloads\Lab3BouncyCube3D\app\src\debug\res
+cg.bouncycube.app-main-6 E:\Downloads\Lab3BouncyCube3D\app\src\main\res
