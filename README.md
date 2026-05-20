@@ -1,4 +1,4 @@
-<img width="1863" height="1004" alt="Lab3S" src="https://github.com/user-attachments/assets/6b9f840d-c144-441b-8c26-7a6d4375b164" />
+
 
 # Lab3BouncyCube3D
 ## Ce face aplicatia
@@ -24,3 +24,4 @@ Afiseaza un cub 3D care se misca sus-jos si se roteste pe axele X si Y.
 - `zFar = 1000.0f`
 - backface culling
 - depth testing
+<img width="1863" height="1004" alt="Lab3S" src="https://github.com/user-attachments/assets/6b9f840d-c144-441b-8c26-7a6d4375b164" />
